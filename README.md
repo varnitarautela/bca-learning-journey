@@ -32,3 +32,9 @@ I will add my Python exercises here as I learn.
 
 ## Progress
 I am learning step by step and updating this repository as I improve.
+
+## Week 1 Progress
+- [x] Created my GitHub repository
+- [x] Added my learning goals
+- [ ] Practise Python problems
+- [ ] Upload my first Python program
